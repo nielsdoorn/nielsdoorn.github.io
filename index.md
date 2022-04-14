@@ -42,7 +42,7 @@ Accepted at Doctoral Consortium ITiCSE 2022.
 
 ### Test Informed Learning with Examples
 
-Tanja E.J. Vos, Niels Doorn, Beatriz Marín, Beatriz Marín, and Niels Doorn. 2021. Test Informed Learning with Examples. In <i>The 10th Computer Science Education Research Conference</i> (<i>CSERC '21</i>). Association for Computing Machinery, New York, NY, USA, 1–2. DOI:https://doi.org/10.1145/3507923.3507924
+Tanja E.J. Vos, Niels Doorn, Beatriz Marín. 2021. Test Informed Learning with Examples. In <i>The 10th Computer Science Education Research Conference</i> (<i>CSERC '21</i>). Association for Computing Machinery, New York, NY, USA, 1–2. DOI:https://doi.org/10.1145/3507923.3507924
 
 #### links
 
@@ -52,7 +52,7 @@ Tanja E.J. Vos, Niels Doorn, Beatriz Marín, Beatriz Marín, and Niels Doorn. 20
 
 ```bibtex
 @inproceedings{10.1145/3507923.3507924,
-	author = {Vos, Tanja E.J. and Doorn, Niels and Mar\'{\i}n, Beatriz and Mar\'{\i}n, Beatriz and Doorn, Niels},
+	author = {Vos, Tanja E.J. and Doorn, Niels and Mar\'{\i}n, Beatriz},
 	title = {Test Informed Learning with Examples},
 	year = {2021},
 	isbn = {9781450385763},
