@@ -28,21 +28,21 @@ Currently I am working on:
 - Open Inf approach on testing. Applying the principles of Growth Mindset on informatics.
 - Developing a Python course with testing integrated.
   
-## Contributions to conferences
+## Academic activities
 
-- Poster presentation at the Inauguration of [Dr. Migchiel van Diggelen](https://www.nhlstenden.com/onderzoek/dr-migchiel-van-diggelen) (website in Dutch).
+- Poster presentation at the inauguration of [Dr. Migchiel van Diggelen](https://www.nhlstenden.com/onderzoek/dr-migchiel-van-diggelen) (website in Dutch).
 
-- Co-chair of student volunteers for [15th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022](https://icst2022.vrain.upv.es/).
+-  I was one of the two student volunteer chairs for the [15th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022](https://icst2022.vrain.upv.es/).
 
 ## Publications
 
 ### Getting computer science students to become `Test Infected'
 
-Accepted at Doctoral Consortium ITiCSE 2022.
+Extended abstract accepted at the Doctoral Consortium of ITiCSE 2022.
 
 ### Test Informed Learning with Examples
 
-Tanja E.J. Vos, Niels Doorn, Beatriz Marín. 2021. Test Informed Learning with Examples. In <i>The 10th Computer Science Education Research Conference</i> (<i>CSERC '21</i>). Association for Computing Machinery, New York, NY, USA, 1–2. DOI:https://doi.org/10.1145/3507923.3507924
+Tanja E.J. Vos, Niels Doorn, Beatriz Marín. 2021. Test Informed Learning with Examples. In *The 10th Computer Science Education Research Conference* (*CSERC '21*). Association for Computing Machinery, New York, NY, USA, 1–2. DOI:[https://doi.org/10.1145/3507923.3507924](https://doi.org/10.1145/3507923.3507924)
 
 #### links
 
