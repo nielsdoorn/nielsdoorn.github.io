@@ -30,9 +30,15 @@ Currently I am working on:
   
 ## Contributions to conferences
 
+- Poster presentation at the Inauguration of Dr. Migchiel van Diggelen
+
 - Co-chair of student volunteers for [15th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022](https://icst2022.vrain.upv.es/).
 
 ## Publications
+
+### Getting computer science students to become `Test Infected'
+
+Accepted at Doctoral Consortium ITiCSE 2022.
 
 ### Test Informed Learning with Examples
 
@@ -82,7 +88,8 @@ N. Doorn, T. E. J. Vos, B. Marín, H. Passier, L. Bijlsma and S. Cacace, "Explor
 	volume={},  
 	number={},  
 	pages={1069-1078},  
-	doi={10.1109/QRS-C55045.2021.00161}}
+	doi={10.1109/QRS-C55045.2021.00161}
+}
 ```
 
 ### TILE Repository
