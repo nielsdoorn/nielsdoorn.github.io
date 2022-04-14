@@ -16,7 +16,7 @@ If you know another Twitter account that should be on the list (maybe your own),
 
 Together with other researchers I study improving the teaching of software testing in higher educational computer science programs. We believe that due to the ever gaining importance of software systems in our society, the quality of these sytems need to be as high as possible. Of course, this is almost an impossible task given the nature and complexity of software systems. It is therefore important to pay attention to software testing as an integrated part of computer science programs.
 
-In the end, all computer science graduates should be "Test Infected", a term coined by Martin Fowler to describe the intrinsic motivation to don't accept untested software.
+In the end, all computer science graduates should be "Test Infected", a term coined by Martin Fowler to describe the intrinsic motivation to not accepting untested software.
 
 ## Current work
 
