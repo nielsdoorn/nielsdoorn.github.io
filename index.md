@@ -80,7 +80,7 @@ N. Doorn, T. E. J. Vos, B. Marín, H. Passier, L. Bijlsma and S. Cacace, "Explor
 #### BibTex
 
 ```bibtex
-@INPROCEEDINGS{9741999,  
+@inproceedings{9741999,  
 	author={Doorn, Niels and Vos, Tanja E. J. and Marín, Beatriz and Passier, Harrie and Bijlsma, Lex and Cacace, Silvio},  
 	booktitle={2021 IEEE 21st International Conference on Software Quality, Reliability and Security Companion (QRS-C)},   
 	title={Exploring students' sensemaking of test case design. An initial study},   
