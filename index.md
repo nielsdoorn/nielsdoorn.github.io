@@ -30,7 +30,7 @@ Currently I am working on:
   
 ## Contributions to conferences
 
-- Poster presentation at the Inauguration of Dr. Migchiel van Diggelen
+- Poster presentation at the Inauguration of [Dr. Migchiel van Diggelen](https://www.nhlstenden.com/onderzoek/dr-migchiel-van-diggelen) (website in Dutch).
 
 - Co-chair of student volunteers for [15th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022](https://icst2022.vrain.upv.es/).
 
