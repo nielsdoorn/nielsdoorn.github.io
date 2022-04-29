@@ -4,7 +4,7 @@ title: "Niels Doorn"
 
 ## Niels Doorn, Ph.D. student
 
-My name is Niels Doorn, I work at [NHL Stenden University of Applied Sciences](https://nhlstenden.com) as a team leader / lecturer / researcher at the Informatics program in Emmen, The Netherlands and I am a Ph.D. student at the [Open Universiteit](https://ou.nl). 
+My name is Niels Doorn, I work at [NHL Stenden University of Applied Sciences](https://nhlstenden.com) as a team leader / lecturer / researcher at the Informatics program in Emmen, The Netherlands, and I am a Ph.D. student at the [Open Universiteit](https://ou.nl). 
 
 ### Orcid
 
@@ -24,7 +24,7 @@ In the end, all computer science graduates should be "Test Infected", a term coi
 
 ## Current work
 
-Currently I am working on:
+Currently, I am working on:
 
 - A study in supporting software analysis with visual modelling to improve test case design.
 - Structured Development Procedure: a way to follow a rigorous procedure to design specifications and test cases for software.
@@ -34,9 +34,10 @@ Currently I am working on:
   
 ## Academic activities
 
+- Member of the organizing committee of [NIOC 2023](http://nioc.nl).
+- Member of the organizing committee of [A-Test 2022](https://a-test.org/).
 - Poster presentation at the inauguration of [Dr. Migchiel van Diggelen](https://www.nhlstenden.com/onderzoek/dr-migchiel-van-diggelen) (website in Dutch).
-
--  I was one of the two student volunteer chairs for the [15th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022](https://icst2022.vrain.upv.es/).
+- I was one of the two student volunteer chairs for the [15th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022](https://icst2022.vrain.upv.es/).
 
 ## Publications
 
