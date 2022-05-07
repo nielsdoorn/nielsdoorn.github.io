@@ -48,25 +48,25 @@ Currently, I am working on:
 <div class="bibtex_structure">
   <div class="sections bibtextypekey">
     <div class="section article">
-      <h1>Refereed Articles</h1>
+      <h3>Refereed Articles</h3>
       <div class="sort year" extra="ASC number">
         <div class="templates"></div>
       </div>
     </div>
     <div class="section book">
-      <h1>Books</h1>
+      <h3>Books</h3>
       <div class="sort year" extra="ASC number">
         <div class="templates"></div>
       </div>
     </div>
     <div class="section inproceedings">
-      <h1>Conference and Workshop Papers</h1>
+      <h3>Conference and Workshop Papers</h3>
       <div class="sort year" extra="ASC number">
         <div class="templates"></div>
       </div>
     </div>
-    <div class="section misc|phdthesis|mastersthesis|bachelorsthesis|techreport">
-      <h1>Other Publications</h1>
+    <div class="section misc|phdthesis|mastersthesis|bachelorsthesis|techreport|software">
+      <h3>Other Publications</h3>
       <div class="sort year" extra="ASC number">
         <div class="templates"></div>
       </div>
