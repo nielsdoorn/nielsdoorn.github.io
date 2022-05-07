@@ -2,6 +2,8 @@
 title: "Niels Doorn"
 ...
 
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
+
 ## Niels Doorn, Ph.D. student
 
 My name is Niels Doorn, I work at [NHL Stenden University of Applied Sciences](https://nhlstenden.com) as a team leader / lecturer / researcher at the Informatics program in Emmen, The Netherlands, and I am a Ph.D. student at the [Open Universiteit](https://ou.nl). 
@@ -41,104 +43,4 @@ Currently, I am working on:
 
 ## Publications
 
-### Getting computer science students to become `Test Infected'
-
-Extended abstract accepted at the Doctoral Consortium of ITiCSE 2022.
-
-### Test Informed Learning with Examples
-
-Tanja E.J. Vos, Niels Doorn, Beatriz Marín. 2021. Test Informed Learning with Examples. In *The 10th Computer Science Education Research Conference* (*CSERC '21*). Association for Computing Machinery, New York, NY, USA, 1–2. DOI:[https://doi.org/10.1145/3507923.3507924](https://doi.org/10.1145/3507923.3507924)
-
-#### links
-
-[Publication information](https://dl.acm.org/doi/10.1145/3507923.3507924)
-
-#### BibTex
-
-```bibtex
-@inproceedings{10.1145/3507923.3507924,
-	author = {Vos, Tanja E.J. and Doorn, Niels and Mar\'{\i}n, Beatriz},
-	title = {Test Informed Learning with Examples},
-	year = {2021},
-	isbn = {9781450385763},
-	publisher = {Association for Computing Machinery},
-	address = {New York, NY, USA},
-	url = {https://doi.org/10.1145/3507923.3507924},
-	doi = {10.1145/3507923.3507924},
-	abstract = { Research has demonstrated that integrating software testing in programming courses has benefits and drawbacks. This work presents Test Informed Learning with Examples (TILE), a proposal to improve teaching of testing in introductory programming courses. We will argue why we think TILE can solve most of the known drawbacks.},
-	booktitle = {The 10th Computer Science Education Research Conference},
-	pages = {1–2},
-	numpages = {2},
-	location = {Virtual Event, Netherlands},
-	series = {CSERC '21}
-}
-```
-
-### Exploring students’ sensemaking of test case design. An initial study.
-
-N. Doorn, T. E. J. Vos, B. Marín, H. Passier, L. Bijlsma and S. Cacace, "Exploring students' sensemaking of test case design. An initial study," 2021 IEEE 21st International Conference on Software Quality, Reliability and Security Companion (QRS-C), 2021, pp. 1069-1078, doi: 10.1109/QRS-C55045.2021.00161.
-
-#### links
-
-[Publication information](https://ieeexplore.ieee.org/document/9741999)
-
-#### BibTex
-
-```bibtex
-@inproceedings{9741999,  
-	author={Doorn, Niels and Vos, Tanja E. J. and Marín, Beatriz and Passier, Harrie and Bijlsma, Lex and Cacace, Silvio},  
-	booktitle={2021 IEEE 21st International Conference on Software Quality, Reliability and Security Companion (QRS-C)},   
-	title={Exploring students' sensemaking of test case design. An initial study},   
-	year={2021},  
-	volume={},  
-	number={},  
-	pages={1069-1078},  
-	doi={10.1109/QRS-C55045.2021.00161}
-}
-```
-
-### TILE Repository
-
-Doorn, N., Vos, T., & Marín, B. (2021). Test Informed Learning with Examples assignments repository (Version 1.0.0) [Computer software]. [https://tile-repository.github.io/](https://tile-repository.github.io/)
-
-
-#### BibTex
-
-```bibtex
-@software{Doorn_Test_Informed_Learning_2021,
-	author = {Doorn, Niels and Vos, Tanja and Marín, Beatriz},
-	month = {9},
-	title = {{Test Informed Learning with Examples assignments repository}},
-	url = {https://tile-repository.github.io/},
-	version = {1.0.0},
-	year = {2021}
-}
-```
-
-### How do Students Test Software Units?
-
-L. Bijlsma, N. Doorn, H. Passier, H. Pootjes and S. Stuurman, "How do Students Test Software Units?," 2021 IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET), 2021, pp. 189-198, doi: 10.1109/ICSE-SEET52601.2021.00029.
-
-
-#### Links
-
-[Preprint](https://arxiv.org/abs/2102.09368)
-
-[Publication information](https://ieeexplore.ieee.org/document/9402198)
-
-[Recording of the presentation](https://www.youtube.com/watch?v=dZGcdn33Qns&list=PLHY5woM0IQQDs7_wP__KDvrLltG-PU__s&index=11)
-
-#### BibTex
-
-```bibtex
-@inproceedings{9402198,
-	title        = {How do Students Test Software Units?},
-	author       = {Bijlsma, Lex and Doorn, Niels and Passier, Harrie and Pootjes, Harold and Stuurman, Sylvia},
-	year         = 2021,
-	booktitle    = {2021 IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET)},
-	volume       = {},
-	number       = {},
-	pages        = {189--198},
-	doi          = {10.1109/ICSE-SEET52601.2021.00029}
-}
-```
+<bibtex src="mypublications.bib"></bibtex>
