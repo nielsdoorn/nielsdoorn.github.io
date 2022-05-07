@@ -2,8 +2,6 @@
 title: "Niels Doorn"
 ...
 
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
-
 ## Niels Doorn, Ph.D. student
 
 My name is Niels Doorn, I work at [NHL Stenden University of Applied Sciences](https://nhlstenden.com) as a team leader / lecturer / researcher at the Informatics program in Emmen, The Netherlands, and I am a Ph.D. student at the [Open Universiteit](https://ou.nl). 
