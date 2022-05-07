@@ -2,6 +2,8 @@
 title: "Niels Doorn"
 ...
 
+<bibtex src="mypublications.bib"></bibtex>
+
 ## Niels Doorn, Ph.D. student
 
 My name is Niels Doorn, I work at [NHL Stenden University of Applied Sciences](https://nhlstenden.com) as a team leader / lecturer / researcher at the Informatics program in Emmen, The Netherlands, and I am a Ph.D. student at the [Open Universiteit](https://ou.nl). 
@@ -39,6 +41,4 @@ Currently, I am working on:
 - Poster presentation at the inauguration of [Dr. Migchiel van Diggelen](https://www.nhlstenden.com/onderzoek/dr-migchiel-van-diggelen) (website in Dutch).
 - I was one of the two student volunteer chairs for the [15th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022](https://icst2022.vrain.upv.es/).
 
-## Publications
-
-<bibtex src="mypublications.bib"></bibtex>
+## Publications {#bibtex_display}

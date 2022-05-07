@@ -1,3 +1,3 @@
 # nielsdoorn.github.io
 
-Website on my research.
+Website about my research.
