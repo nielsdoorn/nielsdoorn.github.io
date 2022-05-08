@@ -1,5 +1,5 @@
 ---
-title: "Niels Doorn"
+title: "Home"
 ...
 
 ## Niels Doorn, Ph.D. student
