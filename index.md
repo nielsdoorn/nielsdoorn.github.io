@@ -32,10 +32,10 @@ Currently, I am working on:
 - Open Inf approach on testing. Applying the principles of Growth Mindset on informatics.
 - Developing a Python course with testing integrated.
   
-## Academic activities
+## Academic services
 
 - Member of the organizing committee of [NIOC 2023](http://nioc.nl).
-- Member of the organizing committee of [A-Test 2022](https://a-test.org/).
+- Student competition chair of [A-Test 2022](https://a-test.org/).
 - Poster presentation at the inauguration of [Dr. Migchiel van Diggelen](https://www.nhlstenden.com/onderzoek/dr-migchiel-van-diggelen) (website in Dutch).
 - I was one of the two student volunteer chairs for the [15th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022](https://icst2022.vrain.upv.es/).
 
