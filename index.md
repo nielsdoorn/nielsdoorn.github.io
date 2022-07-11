@@ -16,6 +16,10 @@ I sometimes [tweet](https://www.twitter.com/nielsdoorn) about my research, but m
 I also maintain a surely incomplete [list](https://twitter.com/i/lists/1356482580627996672?s=20) of software testing research Twitter accounts.
 If you know another Twitter account that should be on the list (maybe your own), send me a direct message.
 
+### Github
+
+Some of my projects can be found on [GitHub.com/nielsdoorn](https://github.com/nielsdoorn).
+
 ## Focus of my research
 
 Together with other researchers I want to improve the teaching of software testing in higher educational computer science programs. We believe that due to the ever gaining importance of software systems in our society, the quality of these systems need to be as high as possible. Of course, this is almost an impossible task given the nature and complexity of software systems. It is therefore important to pay attention to software testing education.
