@@ -70,7 +70,7 @@ Previously I have played an active role in the following items:
 
 ## Publications 
 
-This is a list of my publications:
+This is a list of my publications. You can click on the links to access the PDF's. You can find a Bibtex file with all references in [mypublications.bib](mypublications.bib).
 
 <bibtex src="mypublications.bib"></bibtex>
 
