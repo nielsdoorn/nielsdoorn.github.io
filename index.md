@@ -36,6 +36,10 @@ Currently, I am working on:
 - Researching the effects of introducing testing early, seamlessly and in a subtle way in existing courses
 - Designing experiments to understand misconceptions in testing by students
 - Designing experiments to gain an initial insight in the possible effects of biases in testing
+
+## Poster at ITiCSE 2022
+
+You can find my poster [here](Poster_ITiCSE.pdf).
   
 ## Academic services
 
