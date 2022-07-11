@@ -37,10 +37,14 @@ Currently, I am working on:
 - Designing experiments to understand misconceptions in testing by students
 - Designing experiments to gain an initial insight in the possible effects of biases in testing
 
-## Poster at ITiCSE 2022
+## Poster and presentation at ITiCSE 2022
+
+![ITiCSE poster](Poster_ITiCSE.jpg "My doctoral consortium ITiCSE poster")
 
 You can find my poster [here](Poster_ITiCSE.pdf).
-  
+
+![ITiCSE slide](ITiCSE-Slide.jpg "My doctoral consortium ITiCSE presentation slide")
+
 ## Academic services
 
 - Lecturing a LaTeX course at Open Universiteit
