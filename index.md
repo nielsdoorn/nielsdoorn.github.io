@@ -39,9 +39,11 @@ Currently, I am working on:
 
 ## Poster and presentation at ITiCSE 2022
 
+You can find the PDF of my poster [here](Poster_ITiCSE.pdf).
+
 ![ITiCSE poster](Poster_ITiCSE.jpg "My doctoral consortium ITiCSE poster")
 
-You can find my poster [here](Poster_ITiCSE.pdf).
+And below is the slide for the presentation.
 
 ![ITiCSE slide](ITiCSE-Slide.jpg "My doctoral consortium ITiCSE presentation slide")
 
