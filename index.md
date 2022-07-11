@@ -28,6 +28,8 @@ My research is in Computer Science Education to gain insights into students' sen
 
 In the end, all computer science graduates should be ["Test Infected"](http://junit.sourceforge.net/doc/testinfected/testing.htm), a term coined by Martin Fowler to describe the intrinsic motivation to not accepting untested software.
 
+For this research, I am using Design Research in Education.
+
 ## Current work
 
 Currently, I am working on:
@@ -49,7 +51,11 @@ And below is the slide for the presentation.
 
 ## Academic services
 
+I find it important to contribute to our academic society. I am also looking at reviewing opportunities and guiding master students.
+
 ### Current work
+
+Currently, I am participating in the following items:
 
 - I will be lecturing a LaTeX course at Open Universiteit
 - I am a member of the organizing committee of [NIOC 2023](http://nioc.nl).
@@ -57,10 +63,14 @@ And below is the slide for the presentation.
 
 ### Past work
 
+Previously I have played an active role in the following items:
+
 - I did a poster presentation at the inauguration of [Dr. Migchiel van Diggelen](https://www.nhlstenden.com/onderzoek/dr-migchiel-van-diggelen) (website in Dutch).
 - And I was one of the two student volunteer chairs for the [15th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022](https://icst2022.vrain.upv.es/).
 
 ## Publications 
+
+This is a list of my publications:
 
 <bibtex src="mypublications.bib"></bibtex>
 
