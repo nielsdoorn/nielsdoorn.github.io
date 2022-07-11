@@ -47,11 +47,16 @@ You can find my poster [here](Poster_ITiCSE.pdf).
 
 ## Academic services
 
-- Lecturing a LaTeX course at Open Universiteit
-- Member of the organizing committee of [NIOC 2023](http://nioc.nl).
-- Student competition chair of [A-Test 2022](https://a-test.org/).
-- Poster presentation at the inauguration of [Dr. Migchiel van Diggelen](https://www.nhlstenden.com/onderzoek/dr-migchiel-van-diggelen) (website in Dutch).
-- I was one of the two student volunteer chairs for the [15th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022](https://icst2022.vrain.upv.es/).
+### Current work
+
+- I will be lecturing a LaTeX course at Open Universiteit
+- I am a member of the organizing committee of [NIOC 2023](http://nioc.nl).
+- And one of the student competition chairs of [A-Test 2022](https://a-test.org/).
+
+### Past work
+
+- I did a poster presentation at the inauguration of [Dr. Migchiel van Diggelen](https://www.nhlstenden.com/onderzoek/dr-migchiel-van-diggelen) (website in Dutch).
+- And I was one of the two student volunteer chairs for the [15th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022](https://icst2022.vrain.upv.es/).
 
 ## Publications 
 
