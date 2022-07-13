@@ -4,7 +4,7 @@ title: "Home"
 
 ## Niels Doorn, Ph.D. student in Computer Science Education (CSEd)
 
-My name is Niels Doorn, I work at [NHL Stenden University of Applied Sciences](https://nhlstenden.com) as a team leader / lecturer / researcher at the Informatics program in Emmen, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl). 
+My name is Niels Doorn, I work at [NHL Stenden University of Applied Sciences](https://nhlstenden.com) as a team leader / lecturer / researcher at the Informatics program in Emmen, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl), and this website is about my research into the sensemaking of creating software tests.
 
 ### Orcid
 
