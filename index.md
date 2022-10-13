@@ -26,11 +26,11 @@ Together with other researchers I want to improve the teaching of software testi
 
 My research is in Computer Science Education to gain insights into students' sensemaking of test case design to be able to design a teaching-learning strategy that supports students to learn exploratory and model based software testing which:
 
-- Works in different educational contexts
-- Is integrable in existing courses
-- Can be taught from the start of the program
+- works in different educational contexts
+- is integrable in existing courses
+- can be taught from the start of the program
 
-In the end, all computer science graduates should be ["Test Infected"](http://junit.sourceforge.net/doc/testinfected/testing.htm), a term coined by Martin Fowler to describe the intrinsic motivation to not accepting untested software.
+In the end, all computer science graduates should be ["Test Infected"](http://junit.sourceforge.net/doc/testinfected/testing.htm), a term coined by Martin Fowler to describe the intrinsic motivation to not accept untested software.
 
 For this research, I am using Design Research in Education.
 
@@ -38,10 +38,10 @@ For this research, I am using Design Research in Education.
 
 Currently, I am working on:
 
-- Studying the sensemaking approaches of students while modeling test cases
-- Researching the effects of introducing testing early, seamlessly and in a subtle way in existing courses
-- Designing experiments to understand misconceptions in testing by students
-- Designing experiments to gain an initial insight in the possible effects of biases in testing
+- studying the sensemaking approaches of students while modelling test cases
+- researching the effects of introducing testing early, seamlessly and subtle in existing courses
+- designing experiments to understand misconceptions in testing by students
+- designing experiments to gain an initial insight into the possible effects of biases in testing
 
 ## Poster and presentation at ITiCSE 2022
 
@@ -61,7 +61,7 @@ I find it important to contribute to our academic society. I am also looking at 
 
 Currently, I am participating in the following items:
 
-- I will be lecturing a LaTeX course at Open Universiteit
+- I am lecturing the LaTeX course at Open Universiteit
 - I am a member of the organizing committee of [NIOC 2023](http://nioc.nl).
 - And one of the student competition chairs of [A-Test 2022](https://a-test.org/).
 
@@ -74,7 +74,7 @@ Previously I have played an active role in the following items:
 
 ## Publications 
 
-This is a list of my publications. You can click on the links to access the PDF's. You can find a Bibtex file with all references in [mypublications.bib](mypublications.bib).
+This is a list of my publications. You can click on the links to access the PDF's. You can find a bibtex file with all references in [mypublications.bib](mypublications.bib).
 
 <bibtex src="mypublications.bib"></bibtex>
 
