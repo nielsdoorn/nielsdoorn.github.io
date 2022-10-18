@@ -62,9 +62,10 @@ I find it important to contribute to our academic society. I am also looking at 
 Currently, I am participating in the following items:
 
 - I am lecturing the LaTeX course at Open Universiteit
+- I am one of three PhD students who lecture the testing workshop at the Open Universiteit Informatics gatherings
 - I am a member of the organizing committee of [NIOC 2023](http://nioc.nl).
 - And one of the student competition chairs of [A-Test 2022](https://a-test.org/).
-
+ 
 ### Past work
 
 Previously I have played an active role in the following items:
