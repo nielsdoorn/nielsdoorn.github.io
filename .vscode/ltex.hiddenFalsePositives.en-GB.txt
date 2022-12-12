@@ -1,0 +1,1 @@
+{"rule":"WANT","sentence":"^\\QTogether with other researchers I want to improve the teaching of software testing in higher educational computer science programs.\\E$"}
