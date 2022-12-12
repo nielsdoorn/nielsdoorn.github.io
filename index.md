@@ -12,9 +12,7 @@ My Orcid ID is: [0000-0002-0680-4443](https://orcid.org/0000-0002-0680-4443).
 
 ### Twitter
 
-I sometimes [tweet](https://www.twitter.com/nielsdoorn) about my research, but more often about other things that interest me or that fill me with wonder. 
-I also maintain a surely incomplete [list](https://twitter.com/i/lists/1356482580627996672?s=20) of software testing research Twitter accounts.
-If you know another Twitter account that should be on the list (maybe your own), send me a direct message.
+I sometimes toot about my research on <a rel="me" href="https://mastodon.online/@niels76">mastodon</a> about my research, but more often about other things that interest me or that fill me with wonder. 
 
 ### Github
 
