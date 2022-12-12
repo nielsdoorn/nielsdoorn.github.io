@@ -12,7 +12,7 @@ My Orcid ID is: [0000-0002-0680-4443](https://orcid.org/0000-0002-0680-4443).
 
 ### Twitter
 
-I sometimes toot about my research on <a rel="me" href="https://mastodon.online/@niels76">mastodon</a> about my research, but more often about other things that interest me or that fill me with wonder. 
+I sometimes toot about my research on Mastodon as [@niels76@mastodon.online]{:rel="me"}(https://mastodon.online/@niels76) about my research, but more often about other things that interest me or that fill me with wonder. 
 
 ### Github
 
