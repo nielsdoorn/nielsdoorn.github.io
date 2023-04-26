@@ -38,7 +38,6 @@ Currently, I am working on:
 
 - studying the sensemaking approaches of students while modelling test cases
 - researching the effects of introducing testing early, seamlessly and subtle in existing courses
-- designing experiments to understand misconceptions in testing by students
 - designing experiments to gain an initial insight into the possible effects of biases in testing
 
 ## Poster and presentation at ITiCSE 2022
@@ -59,15 +58,17 @@ I find it important to contribute to our academic society. I am also looking at 
 
 Currently, I am participating in the following items:
 
+- I am a member of the VERSEN Education Working Group
+- I am a member of the NHL Stenden knowledge group Design Based Education 
 - I am lecturing the LaTeX course at Open Universiteit
 - I am one of three PhD students who lecture the testing workshop at the Open Universiteit Informatics gatherings
-- I am a member of the organizing committee of [NIOC 2023](http://nioc.nl).
-- And one of the student competition chairs of [A-Test 2022](https://a-test.org/).
  
 ### Past work
 
 Previously I have played an active role in the following items:
 
+- I was a member of the organizing committee of [NIOC 2023](http://nioc.nl).
+- I was one of the student competition chairs of [A-Test 2022](https://a-test.org/).
 - I did a poster presentation at the inauguration of [Dr. Migchiel van Diggelen](https://www.nhlstenden.com/onderzoek/dr-migchiel-van-diggelen) (website in Dutch).
 - And I was one of the two student volunteer chairs for the [15th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022](https://icst2022.vrain.upv.es/).
 
