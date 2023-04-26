@@ -40,6 +40,10 @@ Currently, I am working on:
 - researching the effects of introducing testing early, seamlessly and subtle in existing courses
 - designing experiments to gain an initial insight into the possible effects of biases in testing
 
+## Prices
+
+My poster at NWO ICT.OPEN 2023 won third prize in the poster awards.
+
 ## Poster and presentation at ITiCSE 2022
 
 You can find the PDF of my poster [here](Poster_ITiCSE.pdf).
