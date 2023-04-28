@@ -28,8 +28,7 @@ My research is in Computer Science Education to gain insights into students' sen
 - is integrable in existing courses
 - can be taught from the start of the program
 
-In the end, all computer science graduates should be ["Test Infected"](http://junit.sourceforge.net/doc/testinfected/testing.htm), a term coined by Martin Fowler to describe the intrinsic motivation to not accept untested software.
-
+In the end, all computer science graduates should be ["Test Infected"](http://junit.sourceforge.net/doc/testinfected/testing.htm), a term coined by Martin Fowler to describe the intrinsic motivation to not accept untested software (although I prefer the term `Test Obsessed`).
 For this research, I am using Design Research in Education.
 
 ## Current work
@@ -40,7 +39,7 @@ Currently, I am working on:
 - researching the effects of introducing testing early, seamlessly and subtle in existing courses
 - designing experiments to gain an initial insight into the possible effects of biases in testing
 
-## Prices
+## Poster at NWO ICT.OPEN 2023
 
 My poster at NWO ICT.OPEN 2023 won third prize in the poster awards.
 
@@ -49,6 +48,21 @@ My poster at NWO ICT.OPEN 2023 won third prize in the poster awards.
 You can find the PDF of my poster [here](ICT.OPEN-TILE_poster.pdf).
 
 ![ICT.OPEN2023 poster](posterICT.OPEN.png "My NWO ICT.OPEN 2023 poster")
+
+## Presentation at ICST 2023
+
+The conference where researchers in topics related to testing feel at home.
+I enjoyed [presenting](ICST2023-TILE_presentation.pdf) our paper there.
+
+![ICST Paper](ICST2023Slide.png "Slide of my ICST presentation")
+
+
+## Presentation at NIOC 2023
+
+One of my favourite conferences is NIOC. I was surely happy to present some of my work there. The presentation can be found [here](TILE_presentation_NIOC_2023.pdf).
+
+![NIOC presentation](NIOC2023.png "First slide of my NIOC presentation")
+
 
 ## Poster and presentation at ITiCSE 2022
 
