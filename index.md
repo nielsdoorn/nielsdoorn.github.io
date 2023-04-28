@@ -4,7 +4,7 @@ title: "Home"
 
 ## Niels Doorn, Ph.D. student in Computer Science Education (CSEd)
 
-My name is Niels Doorn, I work at [NHL Stenden University of Applied Sciences](https://nhlstenden.com) as a team leader / lecturer / researcher at the Informatics program in Emmen, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl), and this website is about my research into the sensemaking of creating software tests.
+My name is Niels Doorn, I work at [NHL Stenden University of Applied Sciences](https://nhlstenden.com) as a team leader / lecturer / researcher at the Informatics program in Emmen, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl), and this website is about my research into the improving software testing education.
 
 ### Orcid
 
@@ -86,7 +86,7 @@ I find it important to contribute to our academic society. I am also looking at 
 
 ### Current work
 
-Currently, I am participating in the following items:
+Currently, I am participating in the following:
 
 - I am one of the organizers of the [evaLuation and assEssment on softwARe eNgineers' Education and tRaining](https://unibas3d.github.io/learner/) (LEARNER) 2023 workshop, which is part of the [International Conference on Evaluation and Assessment in Software Engineering](https://conf.researchr.org/home/ease-2023) (EASE-2023)
 - I am a member of the VERSEN Education Working Group
