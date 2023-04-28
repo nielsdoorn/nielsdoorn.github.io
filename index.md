@@ -10,9 +10,9 @@ My name is Niels Doorn, I work at [NHL Stenden University of Applied Sciences](h
 
 My Orcid ID is: [0000-0002-0680-4443](https://orcid.org/0000-0002-0680-4443).
 
-### Twitter
+### Mastadon
 
-I sometimes toot about my research on my mastadon account <a rel="me" href="https://mastodon.online/@niels76">@niels76@mastodon.online</a> about my research, but more often about other things that interest me, or that fill me with wonder. 
+I sometimes toot about my research on my Mastadon account <a rel="me" href="https://mastodon.online/@niels76">@niels76@mastodon.online</a> about my research, but more often about other things that interest me, or that fill me with wonder. 
 
 ### GitHub
 
@@ -20,7 +20,7 @@ Some of my projects can be found on [GitHub.com/nielsdoorn](https://github.com/n
 
 ## TILE Repository
 
-Came here for the Test Informed Learning with Examples repository? Look no firther! It can be found at [tile-repository.github.io/](https://tile-repository.github.io/).
+Came here for the Test Informed Learning with Examples repository? Look no further! It can be found at [tile-repository.github.io/](https://tile-repository.github.io/).
 
 ## Focus of my research
 
