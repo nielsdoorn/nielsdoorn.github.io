@@ -44,6 +44,12 @@ Currently, I am working on:
 
 My poster at NWO ICT.OPEN 2023 won third prize in the poster awards.
 
+![Winner](winner.JPEG "My NWO ICT.OPEN 2023 poster")
+
+You can find the PDF of my poster [here](ICT.OPEN-TILE_poster.pdf).
+
+![ICT.OPEN2023 poster](posterICT.OPEN.png "My NWO ICT.OPEN 2023 poster")
+
 ## Poster and presentation at ITiCSE 2022
 
 You can find the PDF of my poster [here](Poster_ITiCSE.pdf).
@@ -62,6 +68,7 @@ I find it important to contribute to our academic society. I am also looking at 
 
 Currently, I am participating in the following items:
 
+- I am one of the organizers of the [evaLuation and assEssment on softwARe eNgineers' Education and tRaining](https://unibas3d.github.io/learner/) (LEARNER) 2023 workshop, which is part of the [International Conference on Evaluation and Assessment in Software Engineering](https://conf.researchr.org/home/ease-2023) (EASE-2023)
 - I am a member of the VERSEN Education Working Group
 - I am a member of the NHL Stenden knowledge group Design Based Education 
 - I am lecturing the LaTeX course at Open Universiteit
