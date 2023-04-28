@@ -39,7 +39,9 @@ Currently, I am working on:
 - researching the effects of introducing testing early, seamlessly and subtle in existing courses
 - designing experiments to gain an initial insight into the possible effects of biases in testing
 
-## Poster at NWO ICT.OPEN 2023
+## Presentations and posters
+
+### Poster at NWO ICT.OPEN 2023
 
 My poster at NWO ICT.OPEN 2023 won third prize in the poster awards.
 
@@ -49,7 +51,7 @@ You can find the PDF of my poster [here](ICT.OPEN-TILE_poster.pdf).
 
 ![ICT.OPEN2023 poster](posterICT.OPEN.png "My NWO ICT.OPEN 2023 poster")
 
-## Presentation at ICST 2023
+### Presentation at ICST 2023
 
 The conference where researchers in topics related to testing feel at home.
 I enjoyed [presenting](ICST2023-TILE_presentation.pdf) our paper there.
@@ -57,14 +59,14 @@ I enjoyed [presenting](ICST2023-TILE_presentation.pdf) our paper there.
 ![ICST Paper](ICST2023Slide.png "Slide of my ICST presentation")
 
 
-## Presentation at NIOC 2023
+### Presentation at NIOC 2023
 
 One of my favourite conferences is NIOC. I was surely happy to present some of my work there. The presentation can be found [here](TILE_presentation_NIOC_2023.pdf).
 
 ![NIOC presentation](NIOC2023.png "First slide of my NIOC presentation")
 
 
-## Poster and presentation at ITiCSE 2022
+### Poster and presentation at ITiCSE 2022
 
 You can find the PDF of my poster [here](Poster_ITiCSE.pdf).
 
