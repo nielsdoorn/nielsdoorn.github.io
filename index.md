@@ -4,7 +4,7 @@ title: "Home"
 
 ## Niels Doorn, Ph.D. student in Computer Science Education
 
-My name is Niels Doorn, I work at [NHL Stenden University of Applied Sciences](https://nhlstenden.com) as a team leader / lecturer / researcher at the Informatics program in Emmen, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl), and this website is about my CSEd research into the improving software testing education.
+My name is Niels Doorn, I work at [NHL Stenden University of Applied Sciences](https://nhlstenden.com) as a team leader / lecturer / researcher at the Informatics program in Emmen, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl), and this is my personal website about my CSEd research into improving software testing in computer science education.
 
 ### Orcid
 
@@ -47,7 +47,10 @@ Currently, I am working on:
 
 ### Lightning talk at VERSEN SEN 23
 
-Our call to arms to change the teaching paradigm on testing lightning talk was accepted for the VERSEN SEN 23 symposium.
+Our call to arms to change the teaching paradigm on testing lightning talk is accepted for the [VERSEN SEN 23](https://www.sen-symposium.nl/) symposium.
+
+![screenshot of SEN 23 Lightning talk proposal](SEN23.jpg "screenshot of SEN 23 Lightning talk proposal")
+
 
 ### Presentation at OURsi event
 
@@ -55,7 +58,7 @@ I will be presenting my work at the OURsi event.
 
 ### Presentation at Vakdidactiek Informatica event
 
-I will be presenting my work at the vakdidactiek Informatica event.
+I will be presenting my work at the Vakdidactiek Informatica event.
 
 
 ### Poster at NWO ICT.OPEN 2023
