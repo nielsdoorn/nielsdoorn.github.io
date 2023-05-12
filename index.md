@@ -39,11 +39,24 @@ For this research, I am using Design Research in Education.
 
 Currently, I am working on:
 
-- studying the sensemaking approaches of students while modelling test cases
+- studying the sensemaking approaches of students and experts while modelling test cases
 - researching the effects of introducing testing early, seamlessly and subtle in existing courses
 - designing experiments to gain an initial insight into the possible effects of biases in testing
 
 ## Presentations and posters
+
+### Lightning talk at VERSEN SEN 23
+
+Our call to arms to change the teaching paradigm on testing lightning talk was accepted for the VERSEN SEN 23 symposium.
+
+### Presentation at OURsi event
+
+I will be presenting my work at the OURsi event.
+
+### Presentation at Vakdidactiek Informatica event
+
+I will be presenting my work at the vakdidactiek Informatica event.
+
 
 ### Poster at NWO ICT.OPEN 2023
 
