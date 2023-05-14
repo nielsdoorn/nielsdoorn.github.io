@@ -18,6 +18,14 @@ I sometimes toot about my research on my Mastadon account <a rel="me" href="http
 
 Some of my projects can be found on [GitHub.com/nielsdoorn](https://github.com/nielsdoorn). Feel free to contribute.
 
+### Running / sports
+
+Follow me on [Strava](https://strava.com/athletes/8767957)! I like to go for a run now and then. It helps me to think and also to clear my mind. I often get my best ideas while working out, but I also tend to forget most of them immediately.
+
+### Other interests
+
+☕🧘🏃🌳🐱🐔🥞🚲📷
+
 ## TILE Repository
 
 Came here for the Test Informed Learning with Examples repository? Look no further! It can be found at [tile-repository.github.io/](https://tile-repository.github.io/).
