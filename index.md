@@ -24,7 +24,7 @@ Follow me on [Strava](https://strava.com/athletes/8767957)! I like to go for a r
 
 ### Other interests
 
-☕🧘🏃🌳🐱🐔🥞🚲📷
+☕ 🧘 🌳 🐱 🐔 🥞 🚲 📷
 
 ## TILE Repository
 
