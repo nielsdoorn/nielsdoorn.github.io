@@ -20,28 +20,9 @@ github:
 
 # remote_theme: pages-themes/minimal@v0.2.0
 
-remote_theme: raviriley/agency-jekyll-theme
+remote_theme: coogie/oscailte
 
-url    : "https://researhcn.nielsdoorn.nl" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
-
-# title      : Agency Jekyll Theme Demo
-email      : nielsdoorn@gmail.com #this is also the email contact forms will go to
-# description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
-# author     : Your Name
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
-
-locale: "en-US" # See available languages in _data/sitetext.yml
-
-analytics:
-  google: #Google Analytics tracking code here
-
-collections:
-  portfolio:
-
-markdown: kramdown
+# remote_theme: alshedivat/al-folio 
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
