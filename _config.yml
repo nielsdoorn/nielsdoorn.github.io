@@ -27,3 +27,18 @@ remote_theme: coogie/oscailte
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
+
+oscailte:
+  posts_url:
+  google_analytics:
+  social:
+    github: nielsdoorn
+    mastodon: https://mastodon.online/@niels76
+  strings:
+    skip_to_main_content: "Skip to main content"
+    x_minute_read: "$x$ minute read"
+    # hero_title: "Welcome to Oscailte!<br> A powerful, clean, and responsive Jekyll theme."
+    recent_posts: "Recent posts"
+    view_all: "View all"
+    read_full: "Read full"
+    # disqus_enable_javascript: 'Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus</a>.'
