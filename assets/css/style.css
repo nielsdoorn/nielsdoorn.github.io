@@ -188,9 +188,9 @@ body {
   
   footer {
     width:270px;
-    float:left;
+    /* float:left; */
     position:static;
-    bottom:50px;
+    /* bottom:50px; */
     -webkit-font-smoothing:subpixel-antialiased;
   }
   
