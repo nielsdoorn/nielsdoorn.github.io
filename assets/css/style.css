@@ -268,3 +268,7 @@ body {
       color:#444;
     }
   }
+
+  #bibtex_display h3 {
+    color:#069;
+  }
