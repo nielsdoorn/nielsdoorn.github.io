@@ -19,13 +19,12 @@ My research is in Computer Science Education to gain insights into students' sen
 In the end, all computer science graduates should be ["Test Infected"](http://junit.sourceforge.net/doc/testinfected/testing.htm), a term coined by Martin Fowler to describe the intrinsic motivation to not accept untested software (although I prefer the term `Test Obsessed`).
 For this research, I am using Design Research in Education.
 
-## Current work
+## Current research
 
 Currently, I am working on:
 
 - studying the sensemaking approaches of students and experts while modelling test cases
 - researching the effects of introducing testing early, seamlessly and subtle in existing courses
-- designing experiments to gain an initial insight into the possible effects of biases in testing
 
 ## Academic services
 
