@@ -6,30 +6,6 @@ title: "Home"
 
 My name is Niels Doorn, I work at [NHL Stenden University of Applied Sciences](https://nhlstenden.com) as a team leader / lecturer / researcher at the Informatics program in Emmen, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl), and this is my personal website about my CSEd research into improving software testing in computer science education.
 
-### Orcid
-
-My Orcid ID is: [0000-0002-0680-4443](https://orcid.org/0000-0002-0680-4443).
-
-### Mastadon
-
-I sometimes toot about my research on my Mastadon account <a rel="me" href="https://mastodon.online/@niels76">@niels76@mastodon.online</a> about my research, but more often about other things that interest me, or that fill me with wonder. 
-
-### GitHub
-
-Some of my projects can be found on [GitHub.com/nielsdoorn](https://github.com/nielsdoorn). Feel free to contribute.
-
-### Running / sports
-
-Follow me on [Strava](https://strava.com/athletes/8767957)! I like to go for a run now and then. It helps me to think and also to clear my mind. I often get my best ideas while working out, but I also tend to forget most of them immediately.
-
-### Other interests
-
-☕ 🧘 🌳 🐱 🐔 🥞 🚲 📷
-
-## TILE Repository
-
-Came here for the Test Informed Learning with Examples repository? Look no further! It can be found at [tile-repository.github.io/](https://tile-repository.github.io/).
-
 ## Focus of my research
 
 Together with other researchers I want to improve the teaching of software testing in higher educational computer science programs. We believe that due to the ever gaining importance of software systems in our society, the quality of these systems need to be as high as possible. Of course, this is almost an impossible task given the nature and complexity of software systems. It is therefore important to pay attention to software testing education.
