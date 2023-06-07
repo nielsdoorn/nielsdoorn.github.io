@@ -58,26 +58,7 @@ This is a list of my publications. You can click on the links to access the PDF'
 
 <div class="bibtex_structure">
   <div class="sections bibtextypekey">
-    <div class="section article">
-      <h3>Refereed Articles</h3>
-      <div class="sort year" extra="DESC number">
-        <div class="templates"></div>
-      </div>
-    </div>
-    <div class="section book">
-      <h3>Books</h3>
-      <div class="sort year" extra="DESC number">
-        <div class="templates"></div>
-      </div>
-    </div>
-    <div class="section inproceedings">
-      <h3>Conference and Workshop Papers</h3>
-      <div class="sort year" extra="DESC number">
-        <div class="templates"></div>
-      </div>
-    </div>
-    <div class="section misc|phdthesis|mastersthesis|bachelorsthesis|techreport|software">
-      <h3>Other Publications</h3>
+    <div class="section inproceedings|article|misc|phdthesis|mastersthesis|bachelorsthesis|techreport|software|book">
       <div class="sort year" extra="DESC number">
         <div class="templates"></div>
       </div>
