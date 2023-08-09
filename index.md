@@ -34,6 +34,7 @@ I find it important to contribute to our academic society. I am also looking at 
 
 Currently, I am participating in the following:
 
+- I am a member of the rogram committee of SIGCSE TS 2024
 - I am member of the student council of the [Institute for Programming research and Algorithmics](https://ipa.win.tue.nl/).
 - I am a member of the NHL Stenden knowledge group Design Based Education 
 - I am lecturing the LaTeX workshop at Open Universiteit
