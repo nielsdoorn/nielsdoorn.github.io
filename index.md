@@ -16,7 +16,7 @@ My research is in Computer Science Education to gain insights into students' sen
 - is integrable in existing courses
 - can be taught from the start of the program
 
-In the end, all computer science graduates should be ["Test Infected"](http://junit.sourceforge.net/doc/testinfected/testing.htm), a term coined by Martin Fowler to describe the intrinsic motivation to not accept untested software (although I prefer the term `Test Obsessed`).
+In the end, all computer science graduates should be ["Test Infected"](http://web.archive.org/web/20210323123335/https://junit.sourceforge.net/doc/testinfected/testing.htm), a term coined by Martin Fowler to describe the intrinsic motivation to not accept untested software (although I prefer the term `Test Obsessed`).
 For this research, I am using Design Research in Education.
 
 ## Current research
