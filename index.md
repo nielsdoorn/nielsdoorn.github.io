@@ -34,7 +34,6 @@ I find it important to contribute to our academic society. I am also looking at 
 
 Currently, I am participating in the following:
 
-- I am a member of the program committee of SIGCSE TS 2024
 - I am member of the student council of the [Institute for Programming research and Algorithmics](https://ipa.win.tue.nl/).
 - I am a member of the NHL Stenden knowledge group Design Based Education 
 - I am lecturing the LaTeX workshop at Open Universiteit
@@ -44,6 +43,7 @@ Currently, I am participating in the following:
 
 Previously I have played an active role in the following items:
 
+- I served as a member of the program committee of SIGCSE TS 2024
 - I was one of the organizers of the [evaLuation and assEssment on softwARe eNgineers' Education and tRaining](https://unibas3d.github.io/learner/) (LEARNER) 2023 workshop, which is part of the [International Conference on Evaluation and Assessment in Software Engineering](https://conf.researchr.org/home/ease-2023) (EASE-2023)
 - I was a member of the organizing committee of [NIOC 2023](http://nioc.nl).
 - I was one of the student competition chairs of [A-Test 2022](https://a-test.org/).
