@@ -13,7 +13,7 @@ Therefore, I want to develop a serious game on testing. Players can test a syste
 
 ![Serious game summer school banner](/tallinnSummerSchool.jpg "Banner of the summer school")
 
-To be able to do this, I attended the Serious Gaming Summer School of the University of Tallinn, Estonia. It was an excellent experience, with different methods applied to teach us, a group of eleven students, the ins-and-outs of serious game development.
+To be able to do this, I attended the [design of serious games](https://summerschool.tlu.ee/design-of-serious-games/) summer school at the University of Tallinn, Estonia. It was an excellent experience, with different methods applied to teach us, a group of eleven students, the ins-and-outs of serious game development.
 
 Of course a course of a week is not equivalent to a masters program, however, it did provide me with some essential knowledge on the process of developing games, the use of some platforms to develop a digital serious game, and also ways to evaluate the impact of a game on the students as an indication of the engagement.
 
