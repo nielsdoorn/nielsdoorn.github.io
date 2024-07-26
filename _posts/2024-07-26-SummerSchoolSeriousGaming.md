@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Serious Gaming Summer School Tallinn"
-date: 2024-07-26 09:00:00 +0200
+date: 2024-07-26 16:00:00 +0200
 categories: blog
 author: Niels Doorn
 tags: [summer school, serious gaming, holiday, Estonia, Tallinn]
