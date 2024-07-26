@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Serious Gaming serious game"
+title: "Serious Gaming Summer School Tallinn"
 date: 2024-07-26 11:00:00 +0200
 categories: blog
 author: Niels Doorn
-tags: [summer school, serious gaming, holiday]
+tags: [summer school, serious gaming, holiday, Estonia, Tallinn]
 ...
 
 One of the main problems with teaching software testing is the lack of interesting ways to teach it. Part of my research is to develop interventions that can be used in different educational contexts to improve this situation. It is well known that applying gamification or the use of serious games can be helpful to engage students in learning skills and concepts. 
