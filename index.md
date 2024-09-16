@@ -45,7 +45,7 @@ Currently, I am participating in the following:
 Previously I have played an active role in the following items:
 
 - I served as a member of the program committee of SIGCSE TS 2024
-- I was one of the organizers of the [evaLuation and assEssment on softwARe eNgineers' Education and tRaining](https://unibas3d.github.io/learner/) (LEARNER) 2023 workshop, which is part of the [International Conference on Evaluation and Assessment in Software Engineering](https://conf.researchr.org/home/ease-2023) (EASE-2023)
+- I was one of the organizers of the [evaLuation and assEssment on softwARe eNgineers' Education and tRaining](https://unibas3d.github.io/learner/) (LEARNER) 2023 workshop, which was part of the [International Conference on Evaluation and Assessment in Software Engineering](https://conf.researchr.org/home/ease-2023) (EASE-2023)
 - I was a member of the organizing committee of [NIOC 2023](http://nioc.nl).
 - I was one of the student competition chairs of [A-Test 2022](https://a-test.org/).
 - I did a poster presentation at the inauguration of [Dr. Migchiel van Diggelen](https://www.nhlstenden.com/onderzoek/dr-migchiel-van-diggelen) (website in Dutch).
