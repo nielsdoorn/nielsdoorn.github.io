@@ -25,6 +25,7 @@ Currently, I am working on:
 
 - studying the sensemaking approaches of students and experts while modelling test cases
 - researching the effects of introducing testing early, seamlessly and subtle in existing courses
+- developing a serious game to improve engagement of students in software testing
 
 ## Academic services
 
@@ -38,7 +39,7 @@ Currently, I am participating in the following:
 - I am member of the student council of the [Institute for Programming research and Algorithmics](https://ipa.win.tue.nl/).
 - I am a member of the NHL Stenden knowledge group Design Based Education 
 - I am lecturing the LaTeX workshop at Open Universiteit
-- I am one of three PhD students who lecture the testing workshop at the Open Universiteit Informatics gatherings
+- I am one of PhD students who lecture the testing workshop at the Open Universiteit Informatics gatherings
  
 ### Past work
 
