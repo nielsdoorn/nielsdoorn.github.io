@@ -25,6 +25,7 @@ Currently, I am working on:
 
 - studying the sensemaking approaches of students and experts while modelling test cases
 - researching the effects of introducing testing early, seamlessly and subtle in existing courses
+- developing a serious game to improve engagement of students in software testing
 
 ## Academic services
 
@@ -34,17 +35,18 @@ I find it important to contribute to our academic society. I am also looking at 
 
 Currently, I am participating in the following:
 
-- I am a member of the program committee of SIGCSE TS 2024
+- I am a member of the program committee of SIGCSE TS 2025 (PC member of Posters)
 - I am member of the student council of the [Institute for Programming research and Algorithmics](https://ipa.win.tue.nl/).
 - I am a member of the NHL Stenden knowledge group Design Based Education 
 - I am lecturing the LaTeX workshop at Open Universiteit
-- I am one of three PhD students who lecture the testing workshop at the Open Universiteit Informatics gatherings
+- I am one of PhD students who lecture the testing workshop at the Open Universiteit Informatics gatherings
  
 ### Past work
 
 Previously I have played an active role in the following items:
 
-- I was one of the organizers of the [evaLuation and assEssment on softwARe eNgineers' Education and tRaining](https://unibas3d.github.io/learner/) (LEARNER) 2023 workshop, which is part of the [International Conference on Evaluation and Assessment in Software Engineering](https://conf.researchr.org/home/ease-2023) (EASE-2023)
+- I served as a member of the program committee of SIGCSE TS 2024
+- I was one of the organizers of the [evaLuation and assEssment on softwARe eNgineers' Education and tRaining](https://unibas3d.github.io/learner/) (LEARNER) 2023 workshop, which was part of the [International Conference on Evaluation and Assessment in Software Engineering](https://conf.researchr.org/home/ease-2023) (EASE-2023)
 - I was a member of the organizing committee of [NIOC 2023](http://nioc.nl).
 - I was one of the student competition chairs of [A-Test 2022](https://a-test.org/).
 - I did a poster presentation at the inauguration of [Dr. Migchiel van Diggelen](https://www.nhlstenden.com/onderzoek/dr-migchiel-van-diggelen) (website in Dutch).
@@ -52,7 +54,7 @@ Previously I have played an active role in the following items:
 
 ## Publications 
 
-This is a list of my publications. You can click on the links to access the PDF's. You can find a bibtex file with all references in [mypublications.bib](mypublications.bib).
+This is a list of my publications. You can click on the links to access the PDF's. You can find a BibTeX file with all references in [mypublications.bib](mypublications.bib).
 
 <bibtex src="mypublications.bib"></bibtex>
 
