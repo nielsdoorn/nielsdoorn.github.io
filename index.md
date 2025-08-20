@@ -4,7 +4,7 @@ title: "Home"
 
 ## Niels Doorn, Ph.D. student in Computer Science Education
 
-My name is Niels Doorn, I work at [NHL Stenden University of Applied Sciences](https://nhlstenden.com) as a team leader / lecturer / researcher at the Informatics program in Emmen, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl), and this is my personal website about my CSEd research into improving software testing in computer science education.
+My name is Niels Doorn, I work at [NHL Stenden University of Applied Sciences](https://nhlstenden.com) as a team leader / lecturer / researcher at the Informatics and Computer Science programme in Emmen, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl), and this is my personal website about my CSEd research into improving software testing in computer science education.
 
 ## Focus of my research
 
@@ -17,7 +17,7 @@ My research is in Computer Science Education to gain insights into students' sen
 - can be taught from the start of the program
 
 In the end, all computer science graduates should be ["Test Infected"](http://web.archive.org/web/20210323123335/https://junit.sourceforge.net/doc/testinfected/testing.htm), a term coined by Martin Fowler to describe the intrinsic motivation to not accept untested software (although I prefer the term `Test Obsessed`).
-For this research, I am using Design Research in Education.
+For this research, I am using Design Research in Education as a basis.
 
 ## Current research
 
