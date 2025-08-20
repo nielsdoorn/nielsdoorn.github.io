@@ -35,6 +35,7 @@ I find it important to contribute to our academic society. I am also looking at 
 
 Currently, I am participating in the following:
 
+- I am a mamber of the Dutch Vakdidactiekgroep (Dutch Pedagogy Group) for Computer Science Education.
 - I am member of the student council of the [Institute for Programming research and Algorithmics](https://ipa.win.tue.nl/).
 - I am lecturing the LaTeX workshop at Open Universiteit
 - I am one of PhD students who lecture the testing workshop at the Open Universiteit Informatics gatherings
