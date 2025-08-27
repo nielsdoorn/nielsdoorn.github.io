@@ -1,3 +1,7 @@
+---
+title: "Planning"
+...
+
 # PhD Planning – towards December 2026  
 
 ## Global planning
