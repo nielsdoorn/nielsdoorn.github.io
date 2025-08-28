@@ -52,6 +52,42 @@ List of holidays up and until December 2026:
 | **Nov 2026** | Printing | Print & deliver 15 copies + digital. | — |
 | **Dec 2026** | Defense | 🎯 Public defense of dissertation. | — |
 
+### Gantt Chart Overview
+
+```mermaid
+gantt
+    title PhD Thesis Planning (towards Dec 2026)
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b %Y
+    todayMarker off
+
+    section Phase 2 — Research & Writing
+    Experts paper draft (Ch.8)          :milestone, crit, 2025-11-30, 0d
+    Ch.4 Student Sensemaking            :2025-12-01, 2025-12-15
+    Ch.5 TILE                           :2025-12-16, 2025-12-31
+    Ch.6 Puzzle-Based Learning          :2026-01-01, 2026-01-15
+    Ch.7 Game-Based Learning            :2026-01-16, 2026-01-31
+    Ch.2 Methodology                    :2026-02-01, 2026-02-15
+    Ch.3 Testing Education (State of the Art) :2026-02-16, 2026-02-28
+    Ch.9 Conclusion                     :2026-03-01, 2026-03-15
+    Ch.1 Introduction (rolling)         :2026-01-01, 2026-05-31
+    Finalize Expert chapter (Ch.8)      :2026-04-01, 2026-04-30
+    Revise full thesis draft (supervisor feedback) :2026-04-01, 2026-09-30
+
+    section Phase 2 — Approvals & Submission
+    Deliver final manuscript to supervisors :milestone, 2026-10-05, 0d
+    Submit to Assessment Committee          :milestone, 2026-10-25, 0d
+    Printing & delivery (15 copies + digital) :2026-11-01, 2026-11-21
+    Public defense                           :milestone, 2026-12-15, 0d
+
+    section Holidays (extra capacity)
+    Christmas break  (20 Dec–4 Jan)     :active, 2025-12-20, 2026-01-04
+    Spring break    (21 Feb–1 Mar)      :active, 2026-02-21, 2026-03-01
+    May break       (25 Apr–5 May)      :active, 2026-04-25, 2026-05-05
+    Summer break    (11 Jul–24 Aug)     :active, 2026-07-11, 2026-08-24
+    Autumn break    (10–18 Oct)         :active, 2026-10-10, 2026-10-18
+```
+
 
 
 ## Planning Experts article
