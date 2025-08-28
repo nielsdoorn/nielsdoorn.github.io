@@ -88,8 +88,6 @@ gantt
     Autumn break    (10–18 Oct)         :active, 2026-10-10, 2026-10-18
 ```
 
-
-
 ## Planning Experts article
 
 | Period | Tasks | Output |
