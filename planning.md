@@ -55,6 +55,7 @@ List of holidays up and until December 2026:
 ### Gantt Chart Overview
 
 ```mermaid
+
 gantt
     title PhD Thesis Planning (towards Dec 2026)
     dateFormat  YYYY-MM-DD
