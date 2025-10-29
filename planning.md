@@ -11,13 +11,13 @@ layout: wide
 |-------|--------|------------|--------|
 | **Phase 1 Orientation & Admission** | *Completed* | Admission to PhD trajectory, supervision agreement, initial research proposal | ✅ Finished |
 | **Phase 2 Research & Writing** | Aug–Nov 2025 | Write and finalize *Experts paper* (RQ4) | ⏳ In progress |
-|  | Dec 2025 – Mar 2026 | Integrate all published papers into thesis first draft (intro, methodology, connecting chapters) | Planned |
+|  | Oct 2025 – Mar 2026 | Integrate all published papers into thesis first draft (intro, methodology, connecting chapters) | ⏳ In progress |
 |  | April – Sep 2026 | Revise full thesis draft based on supervisors’ feedback | Planned |
 |  | Oct 2026 | Deliver final manuscript to supervisors for approval | Planned |
 |  | Oct 2026 | Submission to Assessment Committee after supervisor approval | Planned |
-|  | Nov 2026 | Printing and delivery of 15 copies + digital version (≥ 3 weeks before defense) | Planned |
+|  | Nov 2026 | Printing and delivery of 15 copies + digital version (≥ 3 weeks before defense) | Cancelled |
 |  | Dec 2026 | Public defense of the dissertation | 🎯 Target |
-| **Phase 3 – Formal Procedures** | After defense Dec 2026| Declaration of printing costs reimbursement | Planned | 
+| **Phase 3 – Formal Procedures** | After defense Dec 2026| Declaration of printing costs reimbursement | Cancelled | 
 
 
 ## Time Allocation
@@ -42,19 +42,19 @@ List of holidays up and until December 2026:
 | Deadline       | Chapter(s) | Content | Holiday Boost |
 |----------------|------------|---------|---------------|
 | **30 Nov 2025** | Ch. 8 – Expert Sensemaking | Draft and submit expert paper (Wizard-of-Oz, epistemic games). | — |
-| **15 Dec 2025** | Ch. 4 – Student Sensemaking | *Exploring students’ sensemaking* study. | — |
-| **31 Dec 2025** | Ch. 5 – TILE | *ICST 2023 TILE paper* + GitHub updates. | 🎄 Christmas break (20 Dec – 4 Jan) → extra writing time |
-| **15 Jan 2026** | Ch. 6 – Puzzle-Based Learning | *EASE Companion 2025* puzzle paper. | — |
-| **31 Jan 2026** | Ch. 7 – Game-Based Learning | *ENASE 2025* BugOutbreak + INTED gamification. | — |
+| **30 Nov 2025** | Ch. 4 – How students test | *How do Students Test Software Units? (ICSE-SEET)* | — |
+| **15 Dec 2025** | Ch. 5 – Student Sensemaking | *Exploring students’ sensemaking* study. | — |
+| **31 Dec 2025** | Ch. 6 – TILE | *ICST 2023 TILE paper* + GitHub updates. | 🎄 Christmas break (20 Dec – 4 Jan) → extra writing time |
+| **15 Jan 2026** | Ch. 7 – Puzzle-Based Learning | *EASE Companion 2025* puzzle paper. | — |
+| **31 Jan 2026** | Ch. 8 – Game-Based Learning | *ENASE 2025* BugOutbreak + INTED gamification. | — |
 | **15 Feb 2026** | Ch. 2 – Methodology | Central RQs, epistemic games, WoZ, DBR, STGT. | 🌸 Spring break (21 Feb – 1 Mar) follows immediately |
 | **29 Feb 2026** | Ch. 3 – Testing Education (State of the Art) | Literature (Garousi, Scatalon, ENACTEST, AI updates). | 🌸 Spring break overlap for deeper work |
-| **15 Mar 2026** | Ch. 9 – Conclusion | Contributions, integration, implications for CS education & industry. | — |
-| **30 Apr 2026** | Ch. 8 – Expert Sensemaking (finalized) | Incorporate reviewers’ feedback, align with thesis narrative. | 🌼 May break (25 Apr – 5 May) overlaps for finalization |
-| **Jan–May 2026** | Ch. 1 – Introduction | Motivation, ENACTEST context, Bach vs. Bolton, RQs. | Supported by 🎄 Christmas, 🌸 Spring, 🌼 May breaks |
+| **15 Mar 2026** | Ch. 10 – Conclusion | Contributions, integration, implications for CS education & industry. | — |
+| **30 Apr 2026** | Ch. 9 – Expert Sensemaking (finalized) | Incorporate reviewers’ feedback, align with thesis narrative. | 🌼 May break (25 Apr – 5 May) overlaps for finalization |
+| **Oct 2025–May 2026** | Ch. 1 – Introduction | Motivation, ENACTEST context, Bach vs. Bolton, RQs. | Supported by 🎄 Christmas, 🌸 Spring, 🌼 May breaks |
 | **Jul–Aug 2026** | Full Thesis Revisions | Revise draft based on supervisor feedback. | ☀️ Summer break (11 Jul – 24 Aug) → intensive revisions |
 | **Early Oct 2026** | Final Manuscript | Deliver to supervisors for approval. | 🍂 Autumn break (10–18 Oct) just before submission |
 | **Late Oct 2026** | Submission | Submit to Assessment Committee. | 🍂 Autumn break overlap for polish |
-| **Nov 2026** | Printing | Print & deliver 15 copies + digital. | — |
 | **Dec 2026** | Defense | 🎯 Public defense of dissertation. | — |
 
 ### Gantt Chart Overview
@@ -68,22 +68,22 @@ gantt
     todayMarker off
 
     section Phase 2 — Research & Writing
-    Experts paper draft (Ch.8)          :milestone, crit, 2025-11-30, 0d
-    Ch.4 Student Sensemaking            :2025-12-01, 2025-12-15
-    Ch.5 TILE                           :2025-12-16, 2025-12-31
-    Ch.6 Puzzle-Based Learning          :2026-01-01, 2026-01-15
-    Ch.7 Game-Based Learning            :2026-01-16, 2026-01-31
+    Experts paper draft (Ch.9)          :milestone, crit, 2025-11-30, 0d
+    Ch.4 How students test software     :2025-11-01, 2025-11-30
+    Ch.5 Student Sensemaking            :2025-12-01, 2025-12-15
+    Ch.6 TILE                           :2025-12-16, 2025-12-31
+    Ch.7 Puzzle-Based Learning          :2026-01-01, 2026-01-15
+    Ch.8 Game-Based Learning            :2026-01-16, 2026-01-31
     Ch.2 Methodology                    :2026-02-01, 2026-02-15
     Ch.3 Testing Education (State of the Art) :2026-02-16, 2026-02-28
-    Ch.9 Conclusion                     :2026-03-01, 2026-03-15
+    Ch.10 Conclusion                     :2026-03-01, 2026-03-15
     Ch.1 Introduction (rolling)         :2026-01-01, 2026-05-31
-    Finalize Expert chapter (Ch.8)      :2026-04-01, 2026-04-30
+    Finalize Expert chapter (Ch.9)      :2026-04-01, 2026-04-30
     Revise full thesis draft (supervisor feedback) :2026-04-01, 2026-09-30
 
     section Phase 2 — Approvals & Submission
     Deliver final manuscript to supervisors :milestone, 2026-10-05, 0d
     Submit to Assessment Committee          :milestone, 2026-10-25, 0d
-    Printing & delivery (15 copies + digital) :2026-11-01, 2026-11-21
     Public defense                           :milestone, 2026-12-15, 0d
 
     section Holidays (extra capacity)
