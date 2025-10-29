@@ -15,9 +15,9 @@ layout: wide
 |  | April – Sep 2026 | Revise full thesis draft based on supervisors’ feedback | Planned |
 |  | Oct 2026 | Deliver final manuscript to supervisors for approval | Planned |
 |  | Oct 2026 | Submission to Assessment Committee after supervisor approval | Planned |
-|  | Nov 2026 | Printing and delivery of 15 copies + digital version (≥ 3 weeks before defense) | Cancelled |
+|  | Nov 2026 | ~~Printing and delivery of 15 copies + digital version (≥ 3 weeks before defense)~~ | Cancelled |
 |  | Dec 2026 | Public defense of the dissertation | 🎯 Target |
-| **Phase 3 – Formal Procedures** | After defense Dec 2026| Declaration of printing costs reimbursement | Cancelled | 
+| **Phase 3 – Formal Procedures** | After defense Dec 2026| ~~Declaration of printing costs reimbursement~~ | Cancelled | 
 
 
 ## Time Allocation
@@ -25,7 +25,7 @@ Allocated time per week: ~16 hours (2 workdays) up and until 1st of April 2026. 
 Extra time (e.g., holidays) can be allocated for writing.
 List of holidays up and until December 2026:
 
-- Autumn break: 18–26 Oct 2025 (9 days)
+- ~~Autumn break: 18–26 Oct 2025 (9 days)~~
 - Christmas break: 20 Dec 2025 – 4 Jan 2026 (16 days)
 - Spring break: 21 Feb – 1 Mar 2026 (9 days)
 - May break: 25 Apr – 5 May 2026 (11 days)
@@ -87,6 +87,7 @@ gantt
     Public defense                           :milestone, 2026-12-15, 0d
 
     section Holidays (extra capacity)
+    Autumn break (18–26 Oct) 2025       :done, 2025-10-18, 2025-10-26
     Christmas break  (20 Dec–4 Jan)     :active, 2025-12-20, 2026-01-04
     Spring break    (21 Feb–1 Mar)      :active, 2026-02-21, 2026-03-01
     May break       (25 Apr–5 May)      :active, 2026-04-25, 2026-05-05
