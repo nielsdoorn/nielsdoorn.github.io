@@ -4,7 +4,7 @@ title: "Home"
 
 ## Niels Doorn, Ph.D. student in Computer Science Education
 
-My name is Niels Doorn, I work at [NHL Stenden University of Applied Sciences](https://nhlstenden.com) as a team leader / lecturer / researcher at the Informatics and Computer Science programme in Emmen, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl), and this is my personal website about my CSEd research into improving software testing in computer science education.
+My name is Niels Doorn, I work at [NHL Stenden University of Applied Sciences](https://nhlstenden.com) as a team leader / lecturer / researcher at the Informatics and Computer Science programme in Emmen, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl), and this is my personal website about my research into improving software testing in Computer Science Education (CSEd).
 
 ## Focus of my research
 
@@ -14,18 +14,19 @@ My research is in Computer Science Education to gain insights into students' sen
 
 - works in different educational contexts
 - is integrable in existing courses
-- can be taught from the start of the program
+- can be taught from the start of the programme
 
 In the end, all computer science graduates should be ["Test Infected"](http://web.archive.org/web/20210323123335/https://junit.sourceforge.net/doc/testinfected/testing.htm), a term coined by Martin Fowler to describe the intrinsic motivation to not accept untested software (although I prefer the term `Test Obsessed`).
 For this research, I am using Design Research in Education as a basis.
 
-## Current research
+## My research
 
-Currently, I am working on:
+Currently, my reseach focuses on the following topics:
 
-- studying the sensemaking approaches of students and experts while modelling test cases
+- studying the sensemaking approaches of students while modelling test cases
 - researching the effects of introducing testing early, seamlessly and subtle in existing courses
 - developing a serious game to improve engagement of students in software testing
+- designing puzzles based education to teach exploratory testing
 
 ## Academic services
 
@@ -39,6 +40,7 @@ Currently, I am participating in the following:
 - I am member of the student council of the [Institute for Programming research and Algorithmics](https://ipa.win.tue.nl/).
 - I am lecturing the LaTeX workshop at Open Universiteit
 - I am one of PhD students who lecture the testing workshop at the Open Universiteit Informatics gatherings
+- I serve as a reviewer for the ICT Open 2026 conference poster track on Computer Science Education.
  
 ### Past work
 
