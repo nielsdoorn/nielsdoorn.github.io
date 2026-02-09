@@ -4,9 +4,10 @@ title: "Home"
 
 ## Niels Doorn, Ph.D. student in Computer Science Education
 
-My name is Niels Doorn, I work at [NHL Stenden University of Applied Sciences](https://nhlstenden.com) as a team leader / lecturer / researcher at the Informatics and Computer Science programme in Emmen, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl), and this is my personal website about my research into improving software testing in Computer Science Education (CSEd).
+My name is Niels Doorn, I work at [Iselinge Hogeschool](https://iselinge.nl) as a Research Coordinator for Practice-Based Educational Research
+(Focus on Pedagogically Responsive Practice) in Doetinchem, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl), and this is my personal website about my research into improving software testing in Computer Science Education (CSEd).
 
-## Focus of my research
+## Focus of my Ph.D. research
 
 Together with other researchers I want to improve the teaching of software testing in higher educational computer science programs. We believe that due to the ever gaining importance of software systems in our society, the quality of these systems need to be as high as possible. Of course, this is almost an impossible task given the nature and complexity of software systems. It is therefore important to pay attention to software testing education.
 
