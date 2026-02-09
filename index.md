@@ -4,8 +4,7 @@ title: "Home"
 
 ## Niels Doorn, Ph.D. student in Computer Science Education
 
-My name is Niels Doorn, I will soon be working at [Iselinge Hogeschool](https://iselinge.nl) as a Research Coordinator for Practice-Based Educational Research
-(Focus on Pedagogically Responsive Practice) in Doetinchem, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl), and this is my personal website about my research into improving software testing in Computer Science Education (CSEd).
+My name is Niels Doorn, I will soon be working at [Iselinge Hogeschool](https://iselinge.nl) as a Research Coordinator for Practice-Based Educational Research with a focus on Pedagogically Responsive Practice in Doetinchem, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl), and this is my personal website about my research into improving software testing in Computer Science Education (CSEd).
 
 ## Focus of my Ph.D. research
 
@@ -41,12 +40,12 @@ Currently, I am participating in the following:
 - I am member of the student council of the [Institute for Programming research and Algorithmics](https://ipa.win.tue.nl/).
 - I am lecturing the LaTeX workshop at Open Universiteit
 - I am one of PhD students who lecture the testing workshop at the Open Universiteit Informatics gatherings
-- I serve as a reviewer for the ICT Open 2026 conference poster track on Computer Science Education.
  
 ### Past work
 
 Previously I have played an active role in the following items:
 
+- I served as a reviewer for the ICT Open 2026 conference poster track on Computer Science Education
 - I served as a member of the NHL Stenden knowledge group Design Based Education 
 - I served as a member of the program committee of SIGCSE TS 2025 (PC member of Posters)
 - I served as a member of the program committee of SIGCSE TS 2024
