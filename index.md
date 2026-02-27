@@ -4,7 +4,7 @@ title: "Home"
 
 ## Niels Doorn, Ph.D. student in Computer Science Education
 
-My name is Niels Doorn, I will soon be working at [Iselinge Hogeschool](https://iselinge.nl) as a Research Coordinator for Practice-Based Educational Research with a focus on Pedagogically Responsive Practice in Doetinchem, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl), and this is my personal website about my research into improving software testing in Computer Science Education (CSEd).
+My name is Niels Doorn, I work at [Iselinge Hogeschool](https://iselinge.nl) as a Research Coordinator for Practice-Based Educational Research with a focus on Pedagogically Responsive Practice in Doetinchem, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl), and this is my personal website about my research into improving software testing in Computer Science Education (CSEd).
 
 ## Focus of my Ph.D. research
 
