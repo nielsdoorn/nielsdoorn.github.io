@@ -21,7 +21,7 @@ For this research, I am using Design Research in Education as a basis.
 
 ## My research
 
-Currently, my reseach focuses on the following topics:
+Currently, my research focuses on the following topics:
 
 - studying the sensemaking approaches of students while modelling test cases
 - researching the effects of introducing testing early, seamlessly and subtle in existing courses
@@ -36,7 +36,7 @@ I find it important to contribute to our academic society. I am also looking at 
 
 Currently, I am participating in the following:
 
-- I am a mamber of the Dutch Vakdidactiekgroep (Dutch Pedagogy Group) for Computer Science Education.
+- I am a member of the Dutch Vakdidactiekgroep (Dutch Pedagogy Group) for Computer Science Education.
 - I am member of the student council of the [Institute for Programming research and Algorithmics](https://ipa.win.tue.nl/).
 - I am lecturing the LaTeX workshop at Open Universiteit
 - I am one of PhD students who lecture the testing workshop at the Open Universiteit Informatics gatherings
