@@ -9,9 +9,8 @@ tags: [summer school]
 
 This week I am in Prague for the Summer School on the future of school. Their website describes it as follows:
 
-```
-The Summer School will address the issues of effective teaching and mediating knowledge in the current world. We will explore the ways a teacher contributes to child development starting from the early days to the lifelong learning processes. We will explore the new trends in teaching and look into their effectiveness. As well as examining how other social agents – parents, tutors and peers (may) contribute to the education process.
-```
+
+_The Summer School will address the issues of effective teaching and mediating knowledge in the current world. We will explore the ways a teacher contributes to child development starting from the early days to the lifelong learning processes. We will explore the new trends in teaching and look into their effectiveness. As well as examining how other social agents – parents, tutors and peers (may) contribute to the education process._
 
 ## Day 0 (Saterday)
 
