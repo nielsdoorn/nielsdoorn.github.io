@@ -53,7 +53,7 @@ In the afternoon we did a second guided tour of Prague, but this time our tour g
 
 ## Day 4 (Wednesday)
 
-### Excursion to Kunta Hora
+### Excursion to Kutna Hora
 
 (to be continued)
 
