@@ -11,7 +11,7 @@ This week I am in Prague for the Summer School on the future of school. Their [w
 
 _The Summer School will address the issues of effective teaching and mediating knowledge in the current world. We will explore the ways a teacher contributes to child development starting from the early days to the lifelong learning processes. We will explore the new trends in teaching and look into their effectiveness. As well as examining how other social agents – parents, tutors and peers (may) contribute to the education process._
 
-## Day 0 (Saterday)
+## Day 0 (Saturday)
 
 We started with some nice icebreakers to get to know each other. Prague Summer Schools offers five different programmes, and everybody came together for some introduction games and practical information. It is a very international group with almost every continent represented. Some of them are Bachelor students, some Master students, PhD students, but also practioners and even high school students. 
 
