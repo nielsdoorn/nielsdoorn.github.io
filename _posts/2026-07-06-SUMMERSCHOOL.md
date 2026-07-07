@@ -19,7 +19,7 @@ The housing is great, as is the venue. The summer school offers an interesting p
 
 ## Day 1 (Sunday)
 
-### Cross curriculair topics
+### Beyond School Subjects: Cross-curriculair themes
 
 Two lectures on how to implement cross curiculair topics into primary education. Quit interesting, and very relevant also in the Dutch context. The differences between countries are large, but most of the topics (democracy, radicalisation, well being, citizenship, et cetera) seem to be mostly universal, although there are many differences, for example on religion. We had some nice discussions about these topics, but did not find a silver bullet to solve all problems at once.
 
@@ -29,28 +29,48 @@ A tour of Prague with a guide in the afternoon.
 
 ## Day 2 (Monday)
 
-### Prevention
+### Principles of Effective Primary Prevention / Trends in Mental Health and Risky Behavior in Children / Ways to Address Harm to Children from Peers, Family and Teachers
 
 Three quarters of the day was filled with prevention. A very interesting topic, for which we were taught best- and bad practices, some insights into mental health issues, trends of risky behaviour of the last years (social media, alcohol, smoking, drugs, energy drinks), and some didactic approaches to enable groups of pupils to reflect upon these things through interactive forms of education. Prevention is a very complex topic, and I very much liked the scientific approach taken by the professor.
 
-### Strategic plans of Czech education
+### Strategic Plans of Czech Education
 
 The last part of the day gave an insight into the strategic plans of the Czech educational system and how it compares with other countries. The system is somewhat similar to the Dutch system, with some key differences in secondary education. Czech kids get a bit more time to decide what educational path they want to follow. Also, in The Netherlands, Universities of Applied Sciences can offer Master programmes, in Czech, as far as I understood it, only Bachelor programmes are offered. University masters are also 2-3 years, which is one year longer than the Dutch masters. But maybe there are exceptions... All in all Czech education performs quit well compared to other countries. Also, teacher wellbeing is very high. 
 
 ## Day 3 (Tuesday)
 
-### Learning disabilities
+### Learning disabilities: Red Flags and Classroom tips and 
 
-Very interesting lectures about Learning Disabilities (LD). This really brought me up to speed with the latest insights. We talked about red flags, classroom tips, the causes of LD, instructional principles, and we also experienced what it is like to have LD. We also spent time on how to deal with parents, the differences between sympathie and empathy, why teachers are role models. We ended with emotional disturbances and behavioral disorders.
+Very interesting lectures about Learning Disabilities (LD). This really brought me up to speed with the latest insights. We talked about red flags, classroom tips, the causes of LD, instructional principles, and we also experienced what it is like to have LD. We also spent time on how to deal with parents.
 
-### Pragulic tour 
+### Not Just Academics: Social and Emotional Competencies
+
+The second lecture was about Social Emotional Learning with topics like the differences between sympathie and empathy, why teachers are role models, and we ended with emotional disturbances and behavioral disorders.
+
+### Pragulic tour - The Dark Side of Prague
 
 In the afternoon we did a second guided tour of Prague, but this time our tour guide used to be a homeless person with a drug addiction in Prague. We saw the spots where help is offered, the social programmes that are availlable, and the place where he used to sleep. He told us everything in detail about what it is like to live that way in Prague. It was an interesting story.
 
 ## Day 4 (Wednesday)
 
-### Excursion
-
-Excursion to Kunta Hora.
+### Excursion to Kunta Hora
 
 (to be continued)
+
+## Day 5 (Thursday)
+
+### Attention Deficit Hyperactivity Disorder: Risk factors and Educational Support
+
+### Autism: Facts and Myths
+
+### NGO META visit part 1 and 2
+
+### Boat tour
+
+## Day 6 (Friday)
+
+### Improvisation: Reflection and Feedback
+
+### What do KiVa results tell us?
+
+## Day 7 (Saturday)
