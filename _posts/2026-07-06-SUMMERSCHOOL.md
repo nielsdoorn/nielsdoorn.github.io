@@ -59,17 +59,21 @@ After a proper breakfast we headed by train to through the lovely Czech country 
 
 ## Day 5 (Thursday)
 
-(to be continued)
-
-### Attention Deficit Hyperactivity Disorder: Risk factors and Educational Support
+### Attention Deficit Hyperactivity Disorder (ADHD): Risk factors and Educational Support
+I learned a lot from this lecture. The different types of ADHD, the effects of medication, the causes of it, and how to support leaners who have ADHD. It truly was in some aspects an eye opener for me. Although I was familiar with ADHD, I did not know the nuances of it and this brought me up to speed.
 
 ### Autism: Facts and Myths
+Same applies to autism. This lecture gave me so much more in depth knowledge than I had before. By showing poems, movies, and giving examples of het own experience, our teachers made this into a great lecture.
 
 ### NGO META visit part 1 and 2
+In the afternoon we visited the [META](https://meta-ops.eu/) Non-Goveranmental Organisation (NGO) in Prague. They support teachers and learners in teaching and learning the Czech language for those who it is not their first language. For example refugees and immigrant children. We were presented with and overview of the paths these learners can take withing the Czech educational system. They provide much material, most of it for free, and they also develop and publish supportive information, workbooks, methods and such. They also advice the governement into how to improve the support of teachers and learners. Impressive work of which the importance can not be over estimated.
 
 ### Boat tour
+We concluded the day with a boat trip on the river. While the sun was beginning te set, the river was filled with al sorts of boats enjoying this beautiful moment. It was a nice tour on a 100% electric vessel. This made this day something to remember for a long time! 
 
 ## Day 6 (Friday)
+
+(to be continued)
 
 ### Improvisation: Reflection and Feedback
 
