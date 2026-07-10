@@ -73,10 +73,14 @@ We concluded the day with a boat trip on the river. While the sun was beginning 
 
 ## Day 6 (Friday)
 
-(to be continued)
-
 ### Improvisation: Reflection and Feedback
+Bullying in school deserves a lot of attention. This lecture was about an evidence based method from Finland promoting a whole school approach to prevent, intervene, and monitor bullying. Is is being used in 24 countries all over the world. The results show a strong positive trend a few years after introduction at a school. We practiced some of the pedagocial approaches that this method uses. It was nice to do and I learned a lot from it!
 
 ### What do KiVa results tell us?
+This second lecture was a case study of a school where KiVa was introduced. We discussed the case and analysed the data in order to determine what was going on at the school. After discussing that, we came up with several measures to improve the situation.
+
+### Evaluation and Certificates
+This was the final day of the summer school! I've enjoyed it very much and I would highly recommend going there to anyone interessted.
 
 ## Day 7 (Saturday)
+Going back to The Netherlands by train.
