@@ -55,12 +55,12 @@ In the afternoon we did a second guided tour of Prague, but this time our tour g
 
 ### Excursion to Kutna Hora
 
-After a proper breakfast we headed by train to through the lovely Czech country side to Kutna Hora, famous for it's silver mines. The centre of the town lies up a hill, and by walking slowly up it, reveals it secrets one-by-one. First, a high church tower appears. Set in gray stone, it is gracious as well as impressive. Once the cobbled stone roads start, suddenly, through the coloured and well decorated buildings, the arches of the cathedral appear. Obviously the silver mines hide one from these impressive buildings, but the mines have their own splendor. Imagining how it must haven been to look for silver ore (black) in a completely dark mine only with the help of one candela produces by a lamp running on animal fat and once hands to feel the different textures of the stone hopefully to find silver ore, two- to fourhundred meters below the surface. Needles to say, it was a great experience. After a walk through the town and a healthy lunch, we hadded to the [Sedlec Ossuary](https://en.wikipedia.org/wiki/Sedlec_Ossuary) to see the chapel furnished with the bones of at least 20.000 people. Unfortunately, we should have planned this better as the tours did not have enough places left for us to see it. All the more reasone to come back to this beautiful place!
+After a proper breakfast we headed by train to through the lovely Czech country side to Kutna Hora, famous for it's silver mines. The centre of the town lies up a hill, and by walking slowly up it, reveals it secrets one-by-one. First, a high church tower appears. Set in gray stone, it is gracious as well as impressive. Once the cobbled stone roads start, suddenly, through the coloured and well decorated buildings, the arches of the cathedral appear. Obviously the silver mines hide one from these impressive buildings, but the mines have their own splendor. Imagining how it must haven been to look for silver ore (black) in a completely dark mine only with the help of one candela produces by a lamp running on animal fat and once hands to feel the different textures of the stone hopefully to find silver ore, two- to fourhundred meters below the surface. Needles to say, it was a great experience. After a walk through the town and a healthy lunch, we headed to the [Sedlec Ossuary](https://en.wikipedia.org/wiki/Sedlec_Ossuary) to see the chapel furnished with the bones of at least 20.000 people. Unfortunately, we should have planned this better as the tours did not have enough places left for us to see it. All the more reasone to come back to this beautiful place!
 
 ## Day 5 (Thursday)
 
 ### Attention Deficit Hyperactivity Disorder (ADHD): Risk factors and Educational Support
-I learned a lot from this lecture. The different types of ADHD, the effects of medication, the causes of it, and how to support leaners who have ADHD. It truly was in some aspects an eye opener for me. Although I was familiar with ADHD, I did not know the nuances of it and this brought me up to speed.
+I learned a lot from this lecture. The different types of ADHD, the effects of medication, the causes of it, and how to support learners who have ADHD. It truly was in some aspects an eye opener for me. Although I was familiar with ADHD, I did not know the nuances of it and this brought me up to speed.
 
 ### Autism: Facts and Myths
 Same applies to autism. This lecture gave me so much more in depth knowledge than I had before. By showing poems, movies, and giving examples of het own experience, our teachers made this into a great lecture.
@@ -81,6 +81,9 @@ This second lecture was a case study of a school where KiVa was introduced. We d
 
 ### Evaluation and Certificates
 This was the final day of the summer school! I've enjoyed it very much and I would highly recommend going there to anyone interessted.
+
+### Farewell party
+On a very nice location we celebrated our week together and sadly had to say goodbye!
 
 ## Day 7 (Saturday)
 Going back to The Netherlands by train.
