@@ -9,11 +9,11 @@ layout: wide
 
 | Phase | Period | Activities | Status |
 |-------|--------|------------|--------|
-| **Phase 1 Orientation & Admission** | *Completed* | Admission to PhD trajectory, supervision agreement, initial research proposal | ✅ Finished |
+| **Phase 1 Orientation & Admission** | *Completed* | Admission to PhD trajectory, supervision agreement, initial research proposal | ✅ |
 | **Phase 2 Research & Writing** 
-|  | Oct 2025 – Mar 2026 | Integrate all published papers into thesis first draft (intro, methodology, connecting chapters) | *Completed* |
-|  | Apr 2026 | Deliver draft manuscript to supervisors for approval | *Completed* |
-|  | May 2026 | Submission to Assessment Committee  | *Completed* |
+|  | Oct 2025 – Mar 2026 | Integrate all published papers into thesis first draft (intro, methodology, connecting chapters) | ✅  |
+|  | Apr 2026 | Deliver draft manuscript to supervisors for approval | ✅  |
+|  | May 2026 | Submission to Assessment Committee  | ✅  |
 |  | Sept 2026 | Printing and delivery of 50 copies + digital version (≥ 3 weeks before defense) | Planned |
 |  | Nov 13 2026 | Public defense of the dissertation | 🎯 Target |
 | **Phase 3 – Formal Procedures** |  Dec 2026| Declaration of printing costs reimbursement | Planned | 

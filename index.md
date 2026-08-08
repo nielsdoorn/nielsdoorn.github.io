@@ -6,6 +6,8 @@ title: "Home"
 
 My name is Niels Doorn, I work at [Iselinge Hogeschool](https://iselinge.nl) as a Research Coordinator for Practice-Based Educational Research with a focus on Pedagogically Responsive Practice in Doetinchem, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl), and this is my personal website about my research into improving software testing in Computer Science Education (CSEd).
 
+I am currently completing my thesis and preparing for my defence in November 2026.
+
 ## Focus of my Ph.D. research
 
 Together with other researchers I want to improve the teaching of software testing in higher educational computer science programs. We believe that due to the ever gaining importance of software systems in our society, the quality of these systems need to be as high as possible. Of course, this is almost an impossible task given the nature and complexity of software systems. It is therefore important to pay attention to software testing education.
@@ -21,30 +23,30 @@ For this research, I am using Design Research in Education as a basis.
 
 ## My research
 
-Currently, my research focuses on the following topics:
+My PhD research focused on the following topics:
 
 - studying the sensemaking approaches of students while modelling test cases
 - researching the effects of introducing testing early, seamlessly and subtle in existing courses
-- developing a serious game to improve engagement of students in software testing
-- designing puzzles based education to teach exploratory testing
+- designing a serious game to improve engagement of students in software testing
+- developing puzzles based education to teach exploratory testing
 
 ## Academic services
 
-I find it important to contribute to our academic society. I am also looking at reviewing opportunities and guiding master students.
+I find it important to contribute to our academic society.
 
 ### Current work
 
 Currently, I am participating in the following:
 
 - I am a member of the Dutch Vakdidactiekgroep (Dutch Pedagogy Group) for Computer Science Education.
-- I am member of the student council of the [Institute for Programming research and Algorithmics](https://ipa.win.tue.nl/).
-- I am lecturing the LaTeX workshop at Open Universiteit
-- I am one of PhD students who lecture the testing workshop at the Open Universiteit Informatics gatherings
- 
+
 ### Past work
 
 Previously I have played an active role in the following items:
 
+- I served as a member of the student council of the [Institute for Programming research and Algorithmics](https://ipa.win.tue.nl/).
+- I lectured the LaTeX workshop at Open Universiteit
+- I was one of PhD students who lectured the testing workshop at the Open Universiteit Informatics gatherings
 - I served as a reviewer for the ICT Open 2026 conference poster track on Computer Science Education
 - I served as a member of the NHL Stenden knowledge group Design Based Education 
 - I served as a member of the program committee of SIGCSE TS 2025 (PC member of Posters)
