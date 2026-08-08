@@ -25,6 +25,7 @@ For this research, I am using Design Research in Education as a basis.
 
 My PhD research focused on the following topics:
 
+- the current state of research regarding software testing education
 - studying the sensemaking approaches of students while modelling test cases
 - researching the effects of introducing testing early, seamlessly and subtle in existing courses
 - designing a serious game to improve engagement of students in software testing
