@@ -39,6 +39,7 @@ I find it important to contribute to our academic society.
 
 Currently, I am participating in the following:
 
+- I am a reviewer for the [SIGCSE TS 2027](https://2027.sigcse-ts.acm.org) poster track.
 - I am a member of the Dutch Vakdidactiekgroep (Dutch Pedagogy Group) for Computer Science Education.
 
 ### Past work
