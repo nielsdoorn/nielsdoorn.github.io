@@ -2,11 +2,11 @@
 title: "Home"
 ...
 
-## Niels Doorn, Ph.D. student in Computer Science Education
+## Niels Doorn, Ph.D. student in Computer Science Education, and Research Coordinator for Practice-Based Educational Research
 
 My name is Niels Doorn, I work at [Iselinge Hogeschool](https://iselinge.nl) as a Research Coordinator for Practice-Based Educational Research with a focus on Pedagogically Responsive Practice in Doetinchem, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl), and this is my personal website about my research into improving software testing in Computer Science Education (CSEd).
 
-I am currently completing my thesis and preparing for my defence in November 2026.
+I am currently completing preparing for my [defence](https://www.ou.nl/-/promotie-niels-doorn) in November 2026.
 
 ## Focus of my Ph.D. research
 
@@ -20,8 +20,6 @@ My research is in Computer Science Education to gain insights into students' sen
 
 In the end, all computer science graduates should be ["Test Infected"](http://web.archive.org/web/20210323123335/https://junit.sourceforge.net/doc/testinfected/testing.htm), a term coined by Martin Fowler to describe the intrinsic motivation to not accept untested software (although I prefer the term `Test Obsessed`).
 For this research, I am using Design Research in Education as a basis.
-
-## My research
 
 My PhD research focused on the following topics:
 
