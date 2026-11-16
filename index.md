@@ -4,7 +4,7 @@ title: "Home"
 
 ## Niels Doorn, PhD — Computer Science Education researcher and Research Coordinator for Practice-Based Educational Research
 
-My name is Niels Doorn, I work at [Iselinge Hogeschool](https://iselinge.nl) as a Research Coordinator for Practice-Based Educational Research with a focus on Pedagogically Responsive Practice in Doetinchem, The Netherlands. In November 2026 I obtained my Ph.D. at the [Open Universiteit](https://ou.nl) after successfully [defending my dissertation](https://www.ou.nl/-/promotie-niels-doorn). This is my personal website about my research endeavors.
+My name is Niels Doorn, I work at [Iselinge Hogeschool](https://iselinge.nl) as a Research Coordinator for Practice-Based Educational Research with a focus on Pedagogically Responsive Practice in Doetinchem, The Netherlands. In November 2026 I obtained my Ph.D. at the [Open Universiteit](https://ou.nl) after successfully [defending my dissertation](https://www.ou.nl/-/promotie-software-leren-testen-met-puzzelen-en-serious-games). This is my personal website about my research endeavours.
 
 ## Focus of my Ph.D. research
 
