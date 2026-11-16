@@ -2,24 +2,22 @@
 title: "Home"
 ...
 
-## Niels Doorn, Ph.D. student in Computer Science Education, and Research Coordinator for Practice-Based Educational Research
+## Niels Doorn, PhD — Computer Science Education researcher and Research Coordinator for Practice-Based Educational Research
 
-My name is Niels Doorn, I work at [Iselinge Hogeschool](https://iselinge.nl) as a Research Coordinator for Practice-Based Educational Research with a focus on Pedagogically Responsive Practice in Doetinchem, The Netherlands. I am a Ph.D. student at the [Open Universiteit](https://ou.nl), and this is my personal website about my research into improving software testing in Computer Science Education (CSEd).
-
-I am currently completing preparing for my [defence](https://www.ou.nl/-/promotie-niels-doorn) in November 2026.
+My name is Niels Doorn, I work at [Iselinge Hogeschool](https://iselinge.nl) as a Research Coordinator for Practice-Based Educational Research with a focus on Pedagogically Responsive Practice in Doetinchem, The Netherlands. In November 2026 I obtained my Ph.D. at the [Open Universiteit](https://ou.nl) after successfully [defending my dissertation](https://www.ou.nl/-/promotie-niels-doorn). This is my personal website about my research endeavors.
 
 ## Focus of my Ph.D. research
 
-Together with other researchers I want to improve the teaching of software testing in higher educational computer science programs. We believe that due to the ever gaining importance of software systems in our society, the quality of these systems need to be as high as possible. Of course, this is almost an impossible task given the nature and complexity of software systems. It is therefore important to pay attention to software testing education.
+Together with other researchers I worked to improve the teaching of software testing in higher educational computer science programs. We believe that due to the ever gaining importance of software systems in our society, the quality of these systems need to be as high as possible. Of course, this is almost an impossible task given the nature and complexity of software systems. It is therefore important to pay attention to software testing education.
 
-My research is in Computer Science Education to gain insights into students' sensemaking of test case design to be able to design a teaching-learning strategy that supports students to learn exploratory and model based software testing which:
+My research in Computer Science Education aimed to gain insights into students' sensemaking of test case design in order to design a teaching-learning strategy that supports students to learn exploratory and model based software testing which:
 
 - works in different educational contexts
 - is integrable in existing courses
 - can be taught from the start of the programme
 
 In the end, all computer science graduates should be ["Test Infected"](http://web.archive.org/web/20210323123335/https://junit.sourceforge.net/doc/testinfected/testing.htm), a term coined by Martin Fowler to describe the intrinsic motivation to not accept untested software (although I prefer the term `Test Obsessed`).
-For this research, I am using Design Research in Education as a basis.
+For this research, I used Design Research in Education as a basis.
 
 My PhD research focused on the following topics:
 
@@ -37,7 +35,6 @@ I find it important to contribute to our academic society.
 
 Currently, I am participating in the following:
 
-- I am a reviewer for the [SIGCSE TS 2027](https://2027.sigcse-ts.acm.org) poster track.
 - I am a member of the Dutch Vakdidactiekgroep (Dutch Pedagogy Group) for Computer Science Education.
 
 ### Past work
@@ -47,6 +44,7 @@ Previously I have played an active role in the following items:
 - I served as a member of the student council of the [Institute for Programming research and Algorithmics](https://ipa.win.tue.nl/).
 - I lectured the LaTeX workshop at Open Universiteit
 - I was one of PhD students who lectured the testing workshop at the Open Universiteit Informatics gatherings
+- I served as a reviewer for the [SIGCSE TS 2027](https://2027.sigcse-ts.acm.org) poster track
 - I served as a reviewer for the ICT Open 2026 conference poster track on Computer Science Education
 - I served as a member of the NHL Stenden knowledge group Design Based Education 
 - I served as a member of the program committee of SIGCSE TS 2025 (PC member of Posters)
