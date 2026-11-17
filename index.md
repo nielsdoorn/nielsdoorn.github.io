@@ -6,7 +6,7 @@ title: "Home"
 
 My name is Niels Doorn, I work at [Iselinge Hogeschool](https://iselinge.nl) as a Research Coordinator for Practice-Based Educational Research with a focus on Pedagogically Responsive Practice in Doetinchem, The Netherlands. In November 2026 I obtained my PhD at the [Open Universiteit](https://ou.nl) after successfully [defending my dissertation](https://research.nielsdoorn.nl/blog/2026/11/13/DEFENCE.html). This is my personal website about my research endeavours.
 
-## Focus of my Ph.D. research
+## Focus of my PhD research
 
 Together with other researchers I worked to improve the teaching of software testing in higher educational computer science programs. We believe that due to the ever gaining importance of software systems in our society, the quality of these systems need to be as high as possible. Of course, this is almost an impossible task given the nature and complexity of software systems. It is therefore important to pay attention to software testing education.
 
